@@ -17,7 +17,7 @@ package mapper_test
 import (
 	"testing"
 
-	"github.com/verfang/templer/mapper"
+	"github.com/verfang/templater/mapper"
 )
 
 func TestPickleMapperLoadsDict(t *testing.T) {

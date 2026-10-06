@@ -1,4 +1,4 @@
-module github.com/verfang/templer
+module github.com/verfang/templater
 
 go 1.26.2
 

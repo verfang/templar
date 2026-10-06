@@ -24,7 +24,7 @@ import (
 	"github.com/pelletier/go-toml/v2"
 	"gopkg.in/yaml.v3"
 
-	"github.com/verfang/templer/mapper"
+	"github.com/verfang/templater/mapper"
 )
 
 func Render(templatePath string) (string, error) {

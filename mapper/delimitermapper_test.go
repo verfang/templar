@@ -19,7 +19,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/verfang/templer/mapper"
+	"github.com/verfang/templater/mapper"
 )
 
 func TestDelimiterMapperLoadsNamedColumns(t *testing.T) {

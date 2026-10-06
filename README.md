@@ -1,8 +1,8 @@
-# templer
+# templater
 
 Copyright 2026 Richie Wood
 
-templer loads env files in several formats and renders a template that ties
+templater loads env files in several formats and renders a template that ties
 those files together. The template names every input, the output path, and an
 optional check of the rendered text. Env files stay single documents. They do
 not pull in other files.
@@ -114,7 +114,7 @@ Render a template. `Render` returns the path it wrote.
     import (
         "fmt"
 
-        "github.com/verfang/templer/templater"
+        "github.com/verfang/templater/templater"
     )
 
     func main() {
@@ -167,7 +167,7 @@ selects the format.
     import (
         "fmt"
 
-        "github.com/verfang/templer/mapper"
+        "github.com/verfang/templater/mapper"
     )
 
     func main() {

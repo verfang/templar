@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/verfang/templer/mapper"
+	"github.com/verfang/templater/mapper"
 )
 
 func writeTemp(t *testing.T, name string, data []byte) string {
