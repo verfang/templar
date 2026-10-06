@@ -17,7 +17,7 @@ package mapper_test
 import (
 	"testing"
 
-	"github.com/verfang/templater/mapper"
+	"github.com/verfang/templar/mapper"
 )
 
 func TestPropertiesMapperEscapes(t *testing.T) {

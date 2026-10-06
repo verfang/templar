@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package templater
+package templar
 
 import (
 	"encoding/json"
@@ -24,7 +24,7 @@ import (
 	"github.com/pelletier/go-toml/v2"
 	"gopkg.in/yaml.v3"
 
-	"github.com/verfang/templater/mapper"
+	"github.com/verfang/templar/mapper"
 )
 
 func Render(templatePath string) (string, error) {
