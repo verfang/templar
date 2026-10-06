@@ -1,0 +1,12 @@
+github.com/aristanetworks/gomap v0.0.0-20230726210543-f4e41046dced h1:HxlRMDx/VeRqzj3nvqX9k4tjeBcEIkoNHDJPsS389hs=
+github.com/aristanetworks/gomap v0.0.0-20230726210543-f4e41046dced/go.mod h1:p7lmI+ecoe1RTyD11SPXWsSQ3H+pJ4cp5y7vtKW4QdM=
+github.com/kisielk/og-rek v1.3.0 h1:lTXdQXqFETZKA//FWH4RBNAuiJ/dofxIwHAidoUZoMk=
+github.com/kisielk/og-rek v1.3.0/go.mod h1:4at7oxyfBTDilURhNCf7irHWtosJlJl9uyqUqAkrP4w=
+github.com/pelletier/go-toml/v2 v2.4.3 h1:GTRvJQutkOSftxIFD5xw9aepkYNuPWmVJpffdDPYVpY=
+github.com/pelletier/go-toml/v2 v2.4.3/go.mod h1:2gIqNv+qfxSVS7cM2xJQKtLSTLUE9V8t9Stt+h56mCY=
+golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 h1:Di6/M8l0O2lCLc6VVRWhgCiApHV8MnQurBnFSHsQtNY=
+golang.org/x/exp v0.0.0-20230725093048-515e97ebf090/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
